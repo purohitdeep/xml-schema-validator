@@ -1,0 +1,81 @@
+# Maven target directory
+/target/
+/**/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse and STS
+.project
+.classpath
+.settings/
+**/.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nblibraries.properties
+
+# VS Code
+.vscode/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven specific files
+dependency-reduced-pom.xml
+release.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+# Maven wrapper files
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Temporary Files
+*.swp
+*.bak
+*.tmp
+*.old
+*.orig
+*.rej
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+**/.env
+
+# Generated sources and build output directories
+/generated-sources/
+/**/generated-sources/
+
+# Coverage reports
+/site/
+**/site/
+
+# Gradle (if using)
+.gradle/
+build/
